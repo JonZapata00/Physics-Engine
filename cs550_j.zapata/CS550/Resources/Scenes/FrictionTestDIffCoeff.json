@@ -1,0 +1,829 @@
+{
+    "Camera": {
+        "Position": {
+            "x": 26.958097457885742,
+            "y": -2.470950126647949,
+            "z": 0.29525282979011536
+        },
+        "View": {
+            "x": -0.9772691130638123,
+            "y": -0.16065797209739685,
+            "z": -0.13822150230407715
+        }
+    },
+    "Meshes": [
+        {
+            "Mesh_0": {
+                "Color": {
+                    "w": 1.0,
+                    "x": 0.8841180801391602,
+                    "y": 0.8292360305786133,
+                    "z": 0.9812302589416504
+                },
+                "Mesh path": "Resources/Meshes/cube.obj"
+            }
+        },
+        {
+            "Mesh_1": {
+                "Color": {
+                    "w": 1.0,
+                    "x": 0.6125154495239258,
+                    "y": 0.856342077255249,
+                    "z": 0.7015032172203064
+                },
+                "Mesh path": "Resources/Meshes/cube.obj"
+            }
+        },
+        {
+            "Mesh_2": {
+                "Color": {
+                    "w": 1.0,
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.38061055541038513
+                },
+                "Mesh path": "Resources/Meshes/cube.obj"
+            }
+        },
+        {
+            "Mesh_3": {
+                "Color": {
+                    "w": 1.0,
+                    "x": 0.5708709955215454,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "Mesh path": "Resources/Meshes/cube.obj"
+            }
+        },
+        {
+            "Mesh_4": {
+                "Color": {
+                    "w": 1.0,
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.3198036551475525
+                },
+                "Mesh path": "Resources/Meshes/cube.obj"
+            }
+        },
+        {
+            "Mesh_5": {
+                "Color": {
+                    "w": 1.0,
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.01806296594440937
+                },
+                "Mesh path": "Resources/Meshes/cube.obj"
+            }
+        }
+    ],
+    "Number of bodies": 6,
+    "Rigidbodies": [
+        {
+            "Rigidbody_0": {
+                "Accumulated Force": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Accumulated Torque": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Angular Momentum": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Angular Velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Apply Gravity": true,
+                "Apply physics": true,
+                "Friction Coefficient": 0.20000000298023224,
+                "ID": 0,
+                "Inertia Tensor (local)": {
+                    "Row 1": {
+                        "x": 0.1666666716337204,
+                        "y": -0.0,
+                        "z": -0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.1666666716337204,
+                        "z": -0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.1666666716337204
+                    }
+                },
+                "Inertia Tensor (world)": {
+                    "Row 1": {
+                        "x": 1.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    }
+                },
+                "Inertia Tensor Inverse (local)": {
+                    "Row 1": {
+                        "x": 5.999999523162842,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": -0.0,
+                        "y": 5.999999523162842,
+                        "z": -0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 5.999999523162842
+                    }
+                },
+                "Inertia Tensor Inverse (world)": {
+                    "Row 1": {
+                        "x": 1.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    }
+                },
+                "Linear Momentum": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Linear Velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Lock position": false,
+                "Mass": 1.0,
+                "Position": {
+                    "x": -2.0,
+                    "y": 2.5,
+                    "z": 5.0
+                },
+                "Rotation": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "Rigidbody_1": {
+                "Accumulated Force": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Accumulated Torque": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Angular Momentum": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Angular Velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Apply Gravity": false,
+                "Apply physics": true,
+                "Friction Coefficient": 1.0,
+                "ID": 1,
+                "Inertia Tensor (local)": {
+                    "Row 1": {
+                        "x": 0.1666666716337204,
+                        "y": -0.0,
+                        "z": -0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.1666666716337204,
+                        "z": -0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.1666666716337204
+                    }
+                },
+                "Inertia Tensor (world)": {
+                    "Row 1": {
+                        "x": 0.1666666716337204,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.1666666716337204,
+                        "z": 0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.1666666716337204
+                    }
+                },
+                "Inertia Tensor Inverse (local)": {
+                    "Row 1": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                "Inertia Tensor Inverse (world)": {
+                    "Row 1": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                "Linear Momentum": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Linear Velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Lock position": false,
+                "Mass": 0.0,
+                "Position": {
+                    "x": -0.6139035224914551,
+                    "y": -6.897130966186523,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "w": 0.9676750898361206,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -0.2522002160549164
+                },
+                "Scale": {
+                    "x": 12.5,
+                    "y": 12.5,
+                    "z": 12.5
+                }
+            }
+        },
+        {
+            "Rigidbody_2": {
+                "Accumulated Force": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Accumulated Torque": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Angular Momentum": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Angular Velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Apply Gravity": true,
+                "Apply physics": true,
+                "Friction Coefficient": 0.3499999940395355,
+                "ID": 2,
+                "Inertia Tensor (local)": {
+                    "Row 1": {
+                        "x": 0.1666666716337204,
+                        "y": -0.0,
+                        "z": -0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.1666666716337204,
+                        "z": -0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.1666666716337204
+                    }
+                },
+                "Inertia Tensor (world)": {
+                    "Row 1": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                "Inertia Tensor Inverse (local)": {
+                    "Row 1": {
+                        "x": 5.999999523162842,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": -0.0,
+                        "y": 5.999999523162842,
+                        "z": -0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 5.999999523162842
+                    }
+                },
+                "Inertia Tensor Inverse (world)": {
+                    "Row 1": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                "Linear Momentum": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Linear Velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Lock position": false,
+                "Mass": 1.0,
+                "Position": {
+                    "x": -2.0,
+                    "y": 2.5,
+                    "z": 2.5
+                },
+                "Rotation": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "Rigidbody_3": {
+                "Accumulated Force": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Accumulated Torque": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Angular Momentum": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Angular Velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Apply Gravity": true,
+                "Apply physics": true,
+                "Friction Coefficient": 0.5,
+                "ID": 3,
+                "Inertia Tensor (local)": {
+                    "Row 1": {
+                        "x": 0.1666666716337204,
+                        "y": -0.0,
+                        "z": -0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.1666666716337204,
+                        "z": -0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.1666666716337204
+                    }
+                },
+                "Inertia Tensor (world)": {
+                    "Row 1": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                "Inertia Tensor Inverse (local)": {
+                    "Row 1": {
+                        "x": 5.999999523162842,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": -0.0,
+                        "y": 5.999999523162842,
+                        "z": -0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 5.999999523162842
+                    }
+                },
+                "Inertia Tensor Inverse (world)": {
+                    "Row 1": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                "Linear Momentum": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Linear Velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Lock position": false,
+                "Mass": 1.0,
+                "Position": {
+                    "x": -2.0,
+                    "y": 2.5,
+                    "z": 0.0
+                },
+                "Rotation": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "Rigidbody_4": {
+                "Accumulated Force": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Accumulated Torque": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Angular Momentum": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Angular Velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Apply Gravity": true,
+                "Apply physics": true,
+                "Friction Coefficient": 0.699999988079071,
+                "ID": 4,
+                "Inertia Tensor (local)": {
+                    "Row 1": {
+                        "x": 0.1666666716337204,
+                        "y": -0.0,
+                        "z": -0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.1666666716337204,
+                        "z": -0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.1666666716337204
+                    }
+                },
+                "Inertia Tensor (world)": {
+                    "Row 1": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                "Inertia Tensor Inverse (local)": {
+                    "Row 1": {
+                        "x": 5.999999523162842,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": -0.0,
+                        "y": 5.999999523162842,
+                        "z": -0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 5.999999523162842
+                    }
+                },
+                "Inertia Tensor Inverse (world)": {
+                    "Row 1": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                "Linear Momentum": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Linear Velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Lock position": false,
+                "Mass": 1.0,
+                "Position": {
+                    "x": -2.0,
+                    "y": 2.5,
+                    "z": -2.5
+                },
+                "Rotation": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        },
+        {
+            "Rigidbody_5": {
+                "Accumulated Force": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Accumulated Torque": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Angular Momentum": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Angular Velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Apply Gravity": true,
+                "Apply physics": true,
+                "Friction Coefficient": 0.8999999761581421,
+                "ID": 5,
+                "Inertia Tensor (local)": {
+                    "Row 1": {
+                        "x": 0.1666666716337204,
+                        "y": -0.0,
+                        "z": -0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.1666666716337204,
+                        "z": -0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.1666666716337204
+                    }
+                },
+                "Inertia Tensor (world)": {
+                    "Row 1": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                "Inertia Tensor Inverse (local)": {
+                    "Row 1": {
+                        "x": 5.999999523162842,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": -0.0,
+                        "y": 5.999999523162842,
+                        "z": -0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 5.999999523162842
+                    }
+                },
+                "Inertia Tensor Inverse (world)": {
+                    "Row 1": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 2": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Row 3": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                "Linear Momentum": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Linear Velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Lock position": false,
+                "Mass": 1.0,
+                "Position": {
+                    "x": -2.0,
+                    "y": 2.5,
+                    "z": -5.0
+                },
+                "Rotation": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+# Visual Studio user specific files
+cs550_j.zapata/.vs/*
+
+#binary files
+cs550_j.zapata/bin/*
+cs550_j.zapata/obj/*
+cs550_j.zapata/Demo/*
+cs550_j.zapata/Videos/*
+
