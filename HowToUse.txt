@@ -1,0 +1,29 @@
+NOTE: I encourage to make a Release build.
+
+This is a fully fledge 3D Physics Engine that works with any shape, as long as it is convex.
+
+----- Features -----
+- Rigidbody dynamics, including linear and rotational dynamics.
+- Collision detection using the Separating Axis Theorem.
+- Collision resolution using an iterative solver.
+
+----- Controls -----
+- Press "Create Rigidbody" or c to create an object.
+- Use right click + mouse movement to look around.
+- Use right click + WASD to move forward/backward, right/left.
+- When clicking on an object, a GUI window will pop up. You have selected an object, and you can:
+	- Use the gizmo to change its transform (you can also use the GUI).
+	- Modify its rigidbody properties. This includes mass, inertia tensor, friction coefficient...
+		- NOTE: Setting an object's mass to 0 will make it fully static!! i.e. it will 
+		  never move unless you use the gizmo or change this value.
+	- You can select whether an object is affected by forces, gravity... Using the GUI
+
+- The rightmost GUI panel controls the overall Physics Engine. You can change:
+	- the delta time used for integration.
+	- the restitution coefficient used to solve collisions.
+	- There is an option to select a scene. There are a total of 5 scenes that I created, each 
+	with different objects and interactions. Feel free to play around with them.
+		- NOTE: for the chaos demo, I recommend spamming the "c" button (up to a point
+		or it will start lagging)
+		- You can create your own scenes as well. Simply type your scene name in the text
+		box and click save scene. Note that it will also save the camera's current position.
